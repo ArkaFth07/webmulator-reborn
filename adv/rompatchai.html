@@ -766,7 +766,7 @@
             </div>
 
             <!-- OFFSETS TAB -->
-            <div id="offsetsTab" class="tab-content">
+<div id="offsetsTab" class="tab-content">
                 <div class="card">
                     <div class="card-title">
                         <span class="icon">🎯</span>
@@ -797,8 +797,23 @@
                             </tbody>
                         </table>
                     </div>
+                    <div id="paginationControls" style="display: none; margin-top: 20px; display: flex; justify-content: center; align-items: center; gap: 10px;">
+                        <button class="btn btn-secondary" onclick="changePage(-1)" id="prevPageBtn" style="padding: 8px 16px;">
+                            ← Previous
+                        </button>
+                        <div style="color: var(--text-secondary); font-size: 0.9em;">
+                            Page <span id="currentPage">1</span> of <span id="totalPages">1</span>
+                            <span style="margin-left: 15px; color: var(--primary);">
+                                (Showing <span id="showingRange">0-0</span> of <span id="totalOffsets">0</span>)
+                            </span>
+                        </div>
+                        <button class="btn btn-secondary" onclick="changePage(1)" id="nextPageBtn" style="padding: 8px 16px;">
+                            Next →
+                        </button>
+                    </div>
                 </div>
             </div>
+            
 
             <!-- HEX VIEWER TAB -->
             <div id="hexviewTab" class="tab-content">
